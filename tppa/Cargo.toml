@@ -2,5 +2,9 @@
 name = "tppa"
 version = "0.1.0"
 edition = "2021"
+license = "Apache-2.0"
+description = "a test project"
+repository = "https://github.com/liuzsen/abcc"
+authors = ["liuzsen"]
 
 [dependencies]
