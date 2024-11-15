@@ -24,3 +24,8 @@ pub fn test4() -> String {
 pub fn test5() -> String {
     "hello".to_string()
 }
+
+/// Returns the string "hello"
+pub fn test6() -> String {
+    "hello".to_string()
+}
