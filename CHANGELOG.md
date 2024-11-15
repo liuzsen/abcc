@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.2](https://github.com/liuzsen/abcc/compare/tppp-v1.1.1...tppp-v1.1.2) - 2024-11-15
+
+### Other
+
+- new crate
+- Add b
+
 ## [1.1.1](https://github.com/liuzsen/abcc/compare/v1.1.0...v1.1.1) - 2024-11-15
 
 ### Other
