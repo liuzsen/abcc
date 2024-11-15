@@ -32,4 +32,5 @@ pub fn test6__() -> String {
 
 pub struct AA {
     pub a: String,
+    pub b: String,
 }
