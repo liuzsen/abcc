@@ -1,4 +1,4 @@
-///! This is a test project for crate io
+//! This is a test project for crate io
 
 /// Returns the string "hello"
 pub fn test() -> String {
