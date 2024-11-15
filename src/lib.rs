@@ -26,6 +26,6 @@ pub fn test5() -> String {
 }
 
 /// Returns the string "hello"
-pub fn test6() -> String {
+pub fn test6__() -> String {
     "hello".to_string()
 }
