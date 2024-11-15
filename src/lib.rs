@@ -4,3 +4,8 @@
 pub fn test() -> String {
     "hello".to_string()
 }
+
+/// Returns the string "hello"
+pub fn test2() -> String {
+    "hello".to_string()
+}
