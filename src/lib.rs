@@ -29,3 +29,7 @@ pub fn test5(_sa: String) -> String {
 pub fn test6__() -> String {
     "hello".to_string()
 }
+
+pub struct AA {
+    pub a: String,
+}
