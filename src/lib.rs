@@ -21,7 +21,7 @@ pub fn test4() -> String {
 }
 
 /// Returns the string "hello"
-pub fn test5() -> String {
+pub fn test5(_sa: String) -> String {
     "hello".to_string()
 }
 
