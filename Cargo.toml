@@ -7,4 +7,7 @@ description = "a test project"
 repository = "https://github.com/liuzsen/abcc"
 authors = ["liuzsen"]
 
+[workspace]
+members = ["tppa"]
+
 [dependencies]
